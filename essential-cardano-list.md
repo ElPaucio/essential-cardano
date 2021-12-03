@@ -387,7 +387,6 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ### Security Research & Tooling ###
 - [Hachi](https://hachi.one/)
-- [Alice Staking Detective](https://twitter.com/DetectiveAda)
 
 ### Ouroboros Consensus ###
 - [Classic](https://iohk.io/en/research/library/papers/ouroborosa-provably-secure-proof-of-stake-blockchain-protocol/)
@@ -403,6 +402,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ### Abuse Detection & Prevention ###
 - [Cardano Phishing Bot](https://twitter.com/CardanoPhishing)
+- [Alice Staking Detective](https://twitter.com/DetectiveAda)
 
 ## Project Catalyst Startups ##
 - [Liqwid: Cardano DeFi Lending Markets](https://www.liqwid.finance/)
