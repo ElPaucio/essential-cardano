@@ -139,6 +139,7 @@ Here is an outline of the categories:
 - [MELD](https://meld.com/)
 - [Venus](https://venus.io/)
 - [Wave](https://wavegp.com/)
+- [Stakeboard](https://stakeboard.net/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
