@@ -387,6 +387,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ### Security Research & Tooling ###
 - [Hachi](https://hachi.one/)
+- [Alice Staking Detective](https://twitter.com/DetectiveAda)
 
 ### Ouroboros Consensus ###
 - [Classic](https://iohk.io/en/research/library/papers/ouroborosa-provably-secure-proof-of-stake-blockchain-protocol/)
